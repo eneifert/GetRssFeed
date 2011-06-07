@@ -1,0 +1,15 @@
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\Tests.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\Tests.pdb
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\GetRssFeed.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\nunit.framework.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\nunit.mocks.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\pnunit.framework.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\RestSharp.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\GetRssFeed.pdb
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\nunit.framework.xml
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\Newtonsoft.Json.pdb
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\obj\Debug\Tests.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\Tests\obj\Debug\Tests.pdb

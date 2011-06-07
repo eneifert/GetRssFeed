@@ -1,0 +1,9 @@
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\bin\Debug\GetRssFeed.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\bin\Debug\GetRssFeed.pdb
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\bin\Debug\Newtonsoft.Json.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\bin\Debug\RestSharp.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\bin\Debug\Newtonsoft.Json.pdb
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\bin\Debug\Newtonsoft.Json.xml
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\obj\Debug\GetRssFeed.dll
+c:\users\ericn\documents\visual studio 2010\Projects\GetRssFeed\GetRssFeed\obj\Debug\GetRssFeed.pdb

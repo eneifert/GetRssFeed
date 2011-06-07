@@ -1,0 +1,1 @@
+A simple package that gets and parses an rss feed. Supports basic authenticate.

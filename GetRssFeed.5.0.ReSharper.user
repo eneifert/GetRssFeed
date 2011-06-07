@@ -1,0 +1,45 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/d:Models/f:Channel.cs" caret="423" fromTop="13" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/d:Models/f:RssFeed.cs" caret="208" fromTop="8" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/d:Models/f:Item.cs" caret="373" fromTop="12" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1535" fromTop="28" />
+      <File id="AB1D875F-0F57-4D60-9B5D-E030E4227A84/f:Tests.cs" caret="706" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1958" fromTop="9" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/d:Models/f:RssFeed.cs" caret="217" fromTop="8" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/d:Models/f:Channel.cs" caret="432" fromTop="13" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/d:Models/f:Item.cs" caret="359" fromTop="12" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="207" fromTop="8" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1937" fromTop="38" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="236" fromTop="11" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1895" fromTop="33" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="771" fromTop="23" />
+      <File id="AB1D875F-0F57-4D60-9B5D-E030E4227A84/f:Tests.cs" caret="440" fromTop="12" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1034" fromTop="17" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1330" fromTop="23" />
+      <File id="A32A3931-8CDA-4876-BD48-A8FCE31CA072/f:GetRssFeed.cs" caret="1535" fromTop="28" />
+      <File id="AB1D875F-0F57-4D60-9B5D-E030E4227A84/f:Tests.cs" caret="298" fromTop="11" />
+      <File id="AB1D875F-0F57-4D60-9B5D-E030E4227A84/f:Tests.cs" caret="688" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="A32A3931-8CDA-4876-BD48-A8FCE31CA072" ModuleId="GetRssFeed" />
+  <Module PersistentId="AB1D875F-0F57-4D60-9B5D-E030E4227A84" ModuleId="Tests" />
+</Modules>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetRssFeed", "GetRssFeed\GetRssFeed.csproj", "{A32A3931-8CDA-4876-BD48-A8FCE31CA072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{AB1D875F-0F57-4D60-9B5D-E030E4227A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32A3931-8CDA-4876-BD48-A8FCE31CA072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32A3931-8CDA-4876-BD48-A8FCE31CA072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32A3931-8CDA-4876-BD48-A8FCE31CA072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32A3931-8CDA-4876-BD48-A8FCE31CA072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1D875F-0F57-4D60-9B5D-E030E4227A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1D875F-0F57-4D60-9B5D-E030E4227A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1D875F-0F57-4D60-9B5D-E030E4227A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1D875F-0F57-4D60-9B5D-E030E4227A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
